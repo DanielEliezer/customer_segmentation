@@ -1,20 +1,23 @@
 # customer_segmentation
 
-- Description and Motivation
+**- Description and Motivation**
 This project analyzes the data from the customers of a retail company, and try to understand the behaviour of their customers. That can give the company a lot of insights on how to plan their next campaigns, who would be the target of a new product, what are the most important customers, etc.
 
 Link to the original dataset: https://www.kaggle.com/imakash3011/customer-personality-analysis
 
-- Main Steps
+**- Main Steps**
+
 • Introduction
+
 • Preprocessing: Feature Engineering, removing nulls, removing outliers, changing categorical features and removing irrelevants variables.
+
 • Exploratory Data Analysis (EDA): Some plots to understand our features distribution, and how they relate to each other
+
 • Clustering: Scaling the features, Principal components analysis (PCA) and K-Means
+
 • Evaluation of the results: Who are the customers assigned to each customer? 
 
-- Conclusions:
-
-• Evaluation of the results
+**- Conclusions:**
 
 **Cluster 1:**
 - Smaller part of the customers (about 20%)
@@ -44,10 +47,10 @@ On the other hand, people in the cluster 3 doesn't respond very well to discount
 Therefore, **it might be a good idea to concentrate efforts to send special offers to the people in the cluster 1 (and don't send to cluster 3).**
 
 
-- Files in the repository:
+**- Files in the repository:**
 
 • marketing_campaign.csv: A dataset with 2040 rows, and each one of them stores information about a specific customer.
 • customer_segmentation.ipynb: The notebook of the project
 • customer_segmentation.py. The project as a python file.
 
-- Libraries used: Pandas, Numpy, Datetime, Seaborn, Matplotlib, Sklearn
+**- Libraries used:** Pandas, Numpy, Datetime, Seaborn, Matplotlib, Sklearn
