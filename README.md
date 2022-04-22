@@ -46,7 +46,7 @@ We could see that people in the cluster 1 buys a lot of non-essential items, and
 On the other hand, people in the cluster 3 doesn't respond very well to discounts.
 Therefore, **it might be a good idea to concentrate efforts to send special offers to the people in the cluster 1 (and don't send to cluster 3).**
 
-Also, customers from the **cluster 3** spend more money, therefore** are our most valuable customers**. It's worth doing an extra efort to make them happy!
+Also, customers from the **cluster 3** spend more money, therefore **are our most valuable customers**. It's worth doing an extra efort to make them happy!
 
 **- Files in the repository:**
 
